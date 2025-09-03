@@ -1,6 +1,6 @@
 <!-- Banner / Logo -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=600&height=100&lines=$+Hi%2C+I'm+Joriel;echo+'Welcome+to+my+GitHub!'" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=$Hi%2C+I'm+Joriel;echo+'Welcome+to+my+GitHub!'" />
 </p>
 
 ---
