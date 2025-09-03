@@ -1,14 +1,14 @@
 <!-- Banner / Logo -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Hi%20I'm%20Joriel%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:243b55&height=200&section=header&text=Hi%20I'm%20Joriel%20👋&fontSize=40&fontColor=00f2fe&animation=blink&fontAlignY=35&desc=Building%20Scalable%20Backends&descAlignY=60&descAlign=50" />
 </p>
-
 
 ---
 
 ## 👨‍💻 About Me  
-💻 I'm a Backend Developer passionate about building scalable apps and solving real-world problems with clean, efficient code.  
-🔧 I work with PHP, C++, JavaScript, TypeScript, and Python, and I love backend frameworks like Laravel, Express, and Node.js. My focus is on fast APIs, RESTful services, and database-driven systems.  
+I am a Backend Developer with a strong passion for designing and developing scalable applications. I specialize in creating clean, efficient, and maintainable code to solve real-world challenges.  
+
+My technical expertise includes PHP, C++, JavaScript, TypeScript, and Python. I am experienced in backend frameworks such as Laravel, Express, and Node.js, with a focus on developing high-performance APIs, RESTful services, and database-driven systems.  
 
 ---
 
