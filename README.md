@@ -24,7 +24,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Navicat](https://img.shields.io/badge/Navicat-009688?style=for-the-badge&logo=navicat&logoColor=white) ![WampServer](https://img.shields.io/badge/WampServer-ED1C24?style=for-the-badge&logo=wampserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Navicat](https://img.shields.io/badge/Navicat-009688?style=for-the-badge&logo=navicat&logoColor=white) ![WampServer](https://img.shields.io/badge/WampServer-ED1C24?style=for-the-badge&logo=wampserver&logoColor=white)
 
 ## ⚡️ My Favorite Stack  
 - 🛠 Laravel (PHP)  
