@@ -1,6 +1,6 @@
 <!-- Banner / Logo -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0080,100:7928ca&height=200&section=header&text=Hi%20I'm%20Joriel%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20|%20API%20Enthusiast&descAlignY=60&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi%20I'm%20Joriel%20👋&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20|%20Scalable%20Systems&descAlignY=60&descAlign=50" />
 </p>
 
 ---
