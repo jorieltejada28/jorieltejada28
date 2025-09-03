@@ -43,5 +43,5 @@ My technical expertise includes PHP, C++, JavaScript, TypeScript, and Python. I 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=100&section=footer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=600&height=60&lines=Thanks+for+visiting!;Have+a+great+day+%3A)" />
 </p>
