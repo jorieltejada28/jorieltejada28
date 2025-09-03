@@ -1,6 +1,6 @@
 <!-- Banner / Logo -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00F2FE&center=true&vCenter=true&width=500&lines=Hi+I'm+Joriel+👋;Backend+Developer;API+%26+Database+Enthusiast;Clean+Code+Advocate" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00ff99&center=true&vCenter=true&multiline=true&width=600&height=100&lines=$+Hi%2C+I'm+Joriel;echo+'Backend+Developer';echo+'API+Builder+%26+Problem+Solver'" />
 </p>
 
 ---
