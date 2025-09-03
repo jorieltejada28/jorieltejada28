@@ -1,6 +1,6 @@
 <!-- Banner / Logo -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00ff99&center=true&vCenter=true&multiline=true&width=600&height=100&lines=$+Hi%2C+I'm+Joriel;echo+'Backend+Developer';echo+'API+Builder+%26+Problem+Solver'" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&multiline=true&width=650&height=120&lines=$+Hi%2C+I'm+Joriel;echo+'Backend+Developer';echo+'API+Builder+%26+Problem+Solver';echo+'Laravel+|+Node.js+|+PostgreSQL'" />
 </p>
 
 ---
