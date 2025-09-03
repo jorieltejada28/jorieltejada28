@@ -34,37 +34,16 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
----
-
-## 📌 Featured Projects  
-
-- 🔹 [Project 1](https://github.com/your-username/project1) – Description of your project  
-- 🔹 [Project 2](https://github.com/your-username/project2) – Description of your project  
-- 🔹 [Project 3](https://github.com/your-username/project3) – Description of your project  
-
----
-
 ## 📫 Connect With Me  
 
 <p align="left">
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/jorieltejada28">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/joriel-tejada-600257358/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="jorieltejada84@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
