@@ -31,7 +31,7 @@ My technical expertise includes PHP, C++, JavaScript, TypeScript, and Python. I 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Navicat](https://img.shields.io/badge/Navicat-009688?style=for-the-badge&logo=navicat&logoColor=white) ![WampServer](https://img.shields.io/badge/WampServer-ED1C24?style=for-the-badge&logo=wampserver&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-orange?style=for-the-badge&logo=xampp&logoColor=white) ![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white) ![PuTTY](https://img.shields.io/badge/PuTTY-354A7C?style=for-the-badge&logo=putty&logoColor=white) ![CyberPanel](https://img.shields.io/badge/CyberPanel-2980B9?style=for-the-badge&logo=cyberpanel&logoColor=white)  
 
-## ⚡️ My Favorite Stack  
+## ⚡️ My Stack  
 - 🛠 Laravel (PHP)  
 - ⚡️ Node.js / Express (JavaScript & TypeScript)  
 - 🚀 Fast APIs & RESTful services  
