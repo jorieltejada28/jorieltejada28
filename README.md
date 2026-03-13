@@ -49,25 +49,17 @@ My technical expertise includes **PHP, C++, JavaScript, TypeScript, and Python**
 
 ## 📫 Connect With Me  
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/jorieltejada28" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/joriel-tejada-600257358/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:jorieltejada84@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/jorieltejada28" target="_blank" style="display:inline-block; margin-right:8px;">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/joriel-tejada-600257358/" target="_blank" style="display:inline-block; margin-right:8px;">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:jorieltejada84@gmail.com" style="display:inline-block;">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 ---
 
