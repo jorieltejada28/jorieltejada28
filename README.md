@@ -49,12 +49,41 @@ My technical expertise includes **PHP, C++, JavaScript, TypeScript, and Python**
 
 ## 📫 Connect With Me  
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jorieltejada28) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joriel-tejada-600257358/) 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/jorieltejada28" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/joriel-tejada-600257358/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:jorieltejada84@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<a href="mailto:jorieltejada84@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+---
+
+### 🛠 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Navicat](https://img.shields.io/badge/Navicat-009688?style=for-the-badge&logo=navicat&logoColor=white) 
+![WampServer](https://img.shields.io/badge/WampServer-ED1C24?style=for-the-badge&logo=wampserver&logoColor=white) 
+![XAMPP](https://img.shields.io/badge/XAMPP-orange?style=for-the-badge&logo=xampp&logoColor=white) 
+![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white) 
+![PuTTY](https://img.shields.io/badge/PuTTY-354A7C?style=for-the-badge&logo=putty&logoColor=white) 
+![CyberPanel](https://img.shields.io/badge/CyberPanel-2980B9?style=for-the-badge&logo=cyberpanel&logoColor=white)
+![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
