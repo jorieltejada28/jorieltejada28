@@ -1,7 +1,7 @@
 <!-- Header Typing Animation -->
 <div align="center">
   <a href="https://jorieltejada28.github.io/portfolio/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Joriel+G.+Tejada;Full-Stack+Developer+%7C+Angular+%26+Laravel;Building+Scalable+Web+%26+Enterprise+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=720&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Joriel;Full-Stack+Developer+%7C+Angular%2C+Express+TS+%26+Laravel;Building+Scalable+Web+%26+Enterprise+Systems" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -24,10 +24,10 @@
 
 ## 👨‍💻 About Me
 
-I am a **Full-Stack Developer** passionate about architecting and developing scalable, secure, and real-time web applications. I specialize in writing clean, maintainable code to solve real-world operational challenges.
+I am a **Full-Stack Developer** passionate about architecting and developing scalable, secure, and real-time web applications with **TypeScript, Angular, Express.js, and Laravel**. I specialize in writing clean, maintainable code and crafting responsive UIs with **HTML5, Tailwind CSS, and DaisyUI**.
 
 - 🏛️ **Public Sector & Enterprise Experience:** Contributed to the development and maintenance of enterprise government platforms at the **Department of Social Welfare and Development (DSWD)** supporting public service delivery.
-- ⚡ **Core Architecture:** Designing **RESTful APIs**, real-time **Socket.IO / WebSocket** systems, QR-based tracking workflows, and role-based enterprise dashboards.
+- ⚡ **Core Architecture:** Designing **Type-Safe Express.js (TS) & Laravel RESTful APIs**, real-time **Socket.IO / WebSocket** systems, QR-based tracking workflows, and role-based enterprise dashboards.
 - 🌐 **Explore My Work:** [**jorieltejada28.github.io/portfolio**](https://jorieltejada28.github.io/portfolio/)
 
 ---
@@ -36,9 +36,9 @@ I am a **Full-Stack Developer** passionate about architecting and developing sca
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| **Languages & Markup** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) |
 | **Frontend & UI** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) |
-| **Backend & Runtime** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white) |
+| **Backend & Runtime** | ![Express.js](https://img.shields.io/badge/Express_TS-000000?style=for-the-badge&logo=express&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white) |
 | **Databases & BaaS** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
 | **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Navicat](https://img.shields.io/badge/Navicat-009688?style=for-the-badge) ![CyberPanel](https://img.shields.io/badge/CyberPanel-2980B9?style=for-the-badge) ![PuTTY](https://img.shields.io/badge/PuTTY-354A7C?style=for-the-badge) ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white) |
 
@@ -65,8 +65,8 @@ Here are some of the key enterprise platforms and web applications featured in m
 
 | Layer | Primary Stack | What I Build |
 | :--- | :--- | :--- |
-| **Frontend Architecture** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | Responsive SPAs, Enterprise Dashboards, QR Scanners & Real-Time UI |
-| **Backend & APIs** | ![TypeScript](https://img.shields.io/badge/Express_TS-000000?style=flat-square&logo=express&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white) | Type-Safe Express.js REST APIs, WebSockets & Role-Based Auth |
+| **Frontend & UI** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white) | Responsive SPAs, Enterprise Dashboards, QR Scanners & Real-Time UI |
+| **Backend & APIs** | ![Express TS](https://img.shields.io/badge/Express_TS-000000?style=flat-square&logo=express&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white) | Type-Safe Express.js REST APIs, WebSockets & Role-Based Auth |
 | **Data & Persistence** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | Relational Schema Design, High-Volume Intake & Reporting Queries |
 
 <br />
