@@ -1,8 +1,8 @@
 <!-- Header Typing Animation -->
 <div align="center">
-  <a href="https://jorieltejada28.github.io/portfolio/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=720&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Joriel;Full-Stack+Developer+%7C+Angular%2C+Ionic%2C+Express+TS+%26+Laravel;Building+Scalable+Web%2C+Mobile+%26+Enterprise+Systems" alt="Typing SVG" />
-  </a>
+<a href="https://jorieltejada28.github.io/portfolio/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=1000&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Joriel;Full-Stack+Developer+%7C+Angular%2C+Ionic%2C+Express+TS+%26+Laravel;Building+Scalable+Web%2C+Mobile+%26+Enterprise+Systems" alt="Typing SVG" />
+</a>
 
   <p align="center">
     <a href="https://jorieltejada28.github.io/portfolio/" target="_blank">
