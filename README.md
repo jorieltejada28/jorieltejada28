@@ -1,8 +1,8 @@
 <!-- Header Typing Animation -->
 <div align="center">
-<a href="https://jorieltejada28.github.io/portfolio/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=1000&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Joriel;Full-Stack+Developer+%7C+Angular%2C+Ionic%2C+Express+TS+%26+Laravel;Building+Scalable+Web%2C+Mobile+%26+Enterprise+Systems" alt="Typing SVG" />
-</a>
+  <a href="https://jorieltejada28.github.io/portfolio/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=1000&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Joriel;Full-Stack+Developer+%7C+Angular%2C+Ionic%2C+Express+TS+%26+Laravel;Building+Scalable+Web%2C+Mobile+%26+Enterprise+Systems" alt="Typing SVG" />
+  </a>
 
   <p align="center">
     <a href="https://jorieltejada28.github.io/portfolio/" target="_blank">
@@ -35,7 +35,7 @@ I am a **Full-Stack Web & Mobile Developer** passionate about architecting and d
 ## 🛠️ Tech Stack & Ecosystem
 
 | Category | Technologies & Tools |
-| :--- | :--- |
+|:---|:---|
 | **Languages & Markup** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) |
 | **Frontend, Mobile & UI** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) |
 | **Backend & Runtime** | ![Express.js](https://img.shields.io/badge/Express_TS-000000?style=for-the-badge&logo=express&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white) |
@@ -64,7 +64,7 @@ Here are some of the key enterprise platforms and web/mobile applications featur
 ## ⚡ Primary Engineering Focus & GitHub Activity
 
 | Layer | Primary Stack | What I Build |
-| :--- | :--- | :--- |
+|:---|:---|:---|
 | **Frontend, Mobile & UI** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white) | Cross-Platform Mobile Apps (Angular + Ionic), Responsive SPAs, Enterprise Dashboards & QR Scanners |
 | **Backend & APIs** | ![Express TS](https://img.shields.io/badge/Express_TS-000000?style=flat-square&logo=express&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white) | Type-Safe Express.js REST APIs, WebSockets & Role-Based Auth |
 | **Data & Persistence** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | Relational Schema Design, High-Volume Intake & Reporting Queries |
